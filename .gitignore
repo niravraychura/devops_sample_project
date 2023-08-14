@@ -1,0 +1,6 @@
+*.tfstate
+*.tfstate.backup
+*.terraform
+settings.json
+do_not_upload_in_git.md
+*.tfstate.*.backup
