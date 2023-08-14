@@ -1,1 +1,1 @@
-# devops_sample_project
+# DevOps Sample Project
